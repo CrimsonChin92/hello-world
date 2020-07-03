@@ -2,4 +2,4 @@
 
 Hello people of earth!
 
-Your distributed version conrol solutions intrigue me
+Your distributed version control solutions intrigue me.
