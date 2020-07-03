@@ -1,2 +1,5 @@
 # hello-world
-Test repo for git functionality
+
+Hello people of earth!
+
+Your distributed version conrol solutions intrigue me
